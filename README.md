@@ -1,6 +1,6 @@
-# meta-rdk-runtime
+# meta-rdkb-runtime
 
-`meta-rdk-runtime` is a Yocto Project / OpenEmbedded layer containing runtime metadata for RDK-based broadband devices.
+`meta-rdkb-runtime` is a Yocto Project / OpenEmbedded layer containing runtime metadata for RDK-based broadband devices.
 
 The layer provides the recipes, configuration, and integration required to include RDK runtime components in Yocto-based broadband images.
 
